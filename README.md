@@ -5,7 +5,7 @@ Georgetown Data Science PV Rooftops Project
 This is a Django project: https://www.djangoproject.com/     
 All data is saved to a PostgreSQL relational database.
 
-For more details of the project, check out the ![report](https://github.com/gracelf/PV_Rooftop/blob/master/ResearchPaper.pdf)
+For more details of the project, check out the research paper ![report](https://github.com/gracelf/PV_Rooftop/blob/master/ResearchPaper.pdf)
 
 How to run the WebSite locally: 
 1) Naviagte to Django Web App directory `webapp-google-container-engine`        
